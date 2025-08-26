@@ -1,7 +1,7 @@
 Installing
 
 ```
-quarto use template kmasiello/positconfslides
+quarto use template kmasiello/positconf2025_slidetemplate
 ```
 
 Usage 
